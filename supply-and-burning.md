@@ -9,8 +9,7 @@ coverY: 0
 
 1. 45,000,000 Will go into the staking for Goofiez NFTs(we will reduce staking rewards with time) .
 2. 90,000,000 be listed on Raydium Market.
-3. 15,750,000 stays with us for giveaways and merch\
-   \
+3. 15,750,000 for marketing, giveaways, slot machine and dev team.\
 
 
 **Burning GFT**
