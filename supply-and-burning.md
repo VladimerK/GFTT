@@ -3,7 +3,7 @@ cover: .gitbook/assets/Background3.png
 coverY: 0
 ---
 
-# Supply & Burning
+# 🔥 Supply & Burning
 
 **GFT Total Supply is 150,750,000 Tokens.**
 

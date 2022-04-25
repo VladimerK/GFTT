@@ -3,7 +3,7 @@ cover: .gitbook/assets/Back 3.png
 coverY: 0
 ---
 
-# NFT Raffle
+# 🔁 NFT Raffle
 
 ![](.gitbook/assets/daze.PNG)
 
